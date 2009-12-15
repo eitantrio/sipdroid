@@ -90,6 +90,17 @@
     </string-array>
     <string-array name="pref_values">
         <item>SIP</item>
+        <item>PSTN</item>compression">Сжатие</string>
+    <string-array name="compression_display_values">
+        <item>Только при EDGE</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="compression_values">
+        <item>edge</item>
+        <item>always</item>
+        <item>never
+        <item>SIP</item>
         <item>PSTN</item>
     </string-array>
 <string name="settings_auto_on">Авто-ответ</string>
