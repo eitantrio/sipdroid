@@ -67,6 +67,8 @@
 <string name="settings_server">Сервер</string>
 <string name="settings_domain">Домен</string>
 <string name="settings_domain2">Оставьте пустым, если совпадает с сервером</string>
+username1">Имя</string>
+<string name="settings_callerid2">Оставьте пустым, если совпадает с именем пользователя�т с сервером</string>
 <string name="settings_p	<string-array name="port_display_values">
 		<item>53</item>
 		<item>69</item>
@@ -131,11 +133,13 @@
 <string name="settings_auto_on">Авто-ответ</string>
 <string name="settings_auto_on2">Короткое предупреждение вибрацией, когда экран включён</string>
 <string name="settings_auto_ondemand">Авто-ответ по запросу</string>
-<string name="settings_auto_ondemand2">Показывать переключатель 
+<string name="settings_auto_ondemand2">Показывать переключатель <string name="settings_auto_headset">Авто-ответ по гарнитуре</string>
+<string name="settings_auto_headset2">Когда беспроводная гарнитура подключена�тель 
 <string name="settings_notifications">Уведомле�ючатель в строке состояния</string>
 <string name="settings_MWI">Проверка голосовой почты</string>
 <string name="settings_MWI2">Подписка н<string name="settings_notify">Пропущенный вызов</string>
-<string name="settings_notify2">Мигать синим светодиодом�ска на оставленные сообщения в SIP</string>
+<string name="settings_notify2">Мигать синим светодиодом�ска н<string name="settings_nodata">Обрыв данных</string>
+<string name="settings_nodata2">При пропущенных пакетах подавать звуковой сигнал�ска на оставленные сообщения в SIP</string>
 
 <string name="settings_advanced_options�тор сигнала для EDGE-вызовов</string>
 <string name="settings_policy_never">Другая политика сна, чтобы держать Wi-Fi включённым.</string>
@@ -147,13 +151,15 @@
 <string name="settings_excludepat">Шаблон исключения</string>
 <string name="settings_sipringtone">Мелодия SIP-звонка</string>
 <string name="settings_sipringtone2">Выбор мелодии для входящего SIP-вызова</string>
-<string name="settings_sipringtone_dialog">Мелодии звонка</string>
-<string name="settings_eargain">Усиление звука</string>
-<string name="settings_eargain2">Регулировка громкости или подавление эха у собеседника</string>
+<string name="settings_sipringt�ромкость динамика</string>
+<string name="settings_micgain">Громкость микрофона</string>
+<string name="settings_heargain">Громкость гарнитуры</string>
+<string name="settings_hmicgain">Микрофон гарнитуры</string>
     <string-array name="eargain_display_values">
-        <item>Слабое (без эха)</item>
-        <item>Среднее</item>
-        <item>Сильное (может привести к эху у собеседника)</item>
+        <item>Слабая (без эха)</item>
+        <item>Средняя</item>
+        <item>Сильная (возможно эхо)</item>
+        <item>Самая сильная�ьное (может привести к эху у собеседника)</item>
         <item>Самое сильное</item>
     </string-array>
     <string-array name="eargain_values">
@@ -200,7 +206,4 @@
 <string name="unknown">Неизвестно</string>
 
 <string name="slide_hint_down_to_end_call">Опустите, чтобы закончить вызов.</string>
-<string name="slide_hint_up_to_answer">Поднимите, чтобы ответить.</string>
-
-<string name="ongoing">Текущий вызов</string>
-<s
+<string name="slide_hint_up_to_answer">Поднимите, чтобы ответить.</st/resources>
