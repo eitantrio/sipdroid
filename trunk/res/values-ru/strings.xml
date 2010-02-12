@@ -98,7 +98,9 @@ username1">Имя</string>
     </string-array>
     <string-array name="protocol_values">
         <item>udp</item>
-        <item>tcp</item>
+        <item>tcp</ite<string name="settings_stun">STUN-сервер</string>
+<string name="settings_stun_server">Имя STUN-сервера</string>
+<string name="settings_stun_server_port">Порт STUN-сервера</stringtem>
     </string-array>
 
 <string name="settings_options">Настройки вызова</string>
@@ -162,7 +164,8 @@ username1">Имя</string>
         <item>Самая сильная�ьное (может привести к эху у собеседника)</item>
         <item>Самое сильное</item>
     </string-array>
-    <string-array name="eargain_values">
+    <string-array name="eargain_values"><string name="settings_ownwifi">Питание Wi-Fi</string>
+<string name="settings_ownwifi2">Экономит батариею</string">
         <item>0.1</item>
         <item>0.25</item>
         <item>0.5</item>
