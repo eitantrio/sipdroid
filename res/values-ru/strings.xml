@@ -207,4 +207,10 @@ username1">Имя</string>
 <string name="unknown">Неизвестно</string>
 
 <string name="slide_hint_down_to_end_call">Опустите, чтобы закончить вызов.</string>
-<string name="slide_hint_up_to_answer">Поднимите, чтобы ответить.</st/resources>
+<string name="slide_hint_up_to_answer">Поднимите, чтобы ответить.</ststring name="codecs">Аудиокодеки</string>
+<string name="codecs_summary">Выбор аудиокодекос доступных для звонков</string>
+<string name="codecs_move">Сдвинуть этот кодек</string>
+<string name="codecs_move_up">Вверх</string>
+<string name="codecs_move_down">Вниз</string>
+<string name="cancel">Отмена</string>
+</resources>
