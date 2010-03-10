@@ -88,6 +88,27 @@ username1">Имя</string>
 		<item>36999</item>
 		<item>custom</item>
 	</string-array>
+	<string-array name="port_values">
+		<item>53</item>
+		<item>69</item>
+		<item>80</item>
+		<item>135</item>
+		<item>161</item>
+		<item>443</item>
+		<item>500</item>
+		<item>1433</item>
+		<item>1701</item>
+		<item>1812</item>
+		<item>3389</item>
+		<item>4500</item>
+		<item>5060</item>
+		<item>5061</item>
+		<item>5900</item>
+		<item>16999</item>
+		<item>26999</item>
+		<item>36999</item>
+		<item>0</item>
+	</string-array>
 	port">Порт</string>
 <string name="settings_protocol">Протокол</string>
     <string-array name="protocol_display_values">
@@ -104,8 +125,8 @@ username1">Имя</string>
 <string name="settings_options">Настройки вызова</string>
 <string name="settings_wlan">Использовать WLAN</string>
 <string na</string>
-<string name="settings_edge">Использовать e="settings_3g">Использовать 3G/EDGE</string>
-<string name="settings_check">Убедитесь, что ваш мобильный опе
+<string name="settings_edge">Использовать e="settings_3g">Использова�vpn">Использовать VPNettings_3g">Использовать 3G/EDGE</string>
+<string name="settings_check">Убедитесь, что ваш мобильный опе<string name="settings_vpn2">PBXes предлагает бесплатный VPN — смотрите раздел HELP у него.�й опе
 <string name="dialog_default">Sipdroid не является телефоном по умолчанию. Хотите установить его по умолчанию?
 \n
 \nЕсли Вы ответите «Нет», то всё равно сможете звонить через Sipdroid, добавив «+» перед номером телефона или выбрав «Отправить сообщение» в Контактах.</string>
@@ -117,12 +138,22 @@ username1">Имя</string>
 <string name="settings_pref2">Можно всегда позвонить через Sipdroid добавив «+» перед номером телефона или выбрав «Отправить сообщение» в Контактах.едпочитаемый тип вызова</string>
     <string-array name="</item    <string-array name="pref_display_values">
         <item>Sipdroid, когда возможно</item>
+        <ite    <string-array name="pref_values">
+        <item>SIPONLY</item>
+        <item>SIP</item>
+        <item>PSTNожно</item>
         <ite      <item>PSTN</item>compression">Сжатие</string>
     <string-array name="compression_display_values">
         <item>Только при EDGE</item>
         <item>Только при EDGE/3G</item>
         <item>Всегда</item>
         <item>Никогда
+        <item>SIP</item>
+      <string-array name="compression_values">
+        <item>edge</item>
+        <item>edgeor3g</item>
+        <item>always</item>
+        <item>never
         <item>SIP</item>
         <item>PSTN</item>
     </string-array>
@@ -159,7 +190,7 @@ username1">Имя</string>
         <item>Самое сильное</item>
     </string-array>
     <string-array name="eargain_values"><string name="settings_ownwifi">Питание Wi-Fi</string>
-<string name="settings_ownwifi2">Экономит батариею</string">
+<string name="settings_ownwifi2">Экономит батарею</string">
         <item>0.1</item>
         <item>0.25</item>
         <item>0.5</item>
@@ -177,6 +208,18 @@ username1">Имя</string>
 <string name="settings_pos3">Обновление местоположения</string>
 <string name="settings_callback">Обратный вызов</string>
 <string name="settings_callback2">Если подходящая сеть недоступна</string>
+<string name="settsettings_title">Настройки Sipdroid</string>
+
+<string name="settings_profile_title">Настройки Sipdroid (<xliff:g id="profile">%s</xliff:g>)</string>
+<string name="settings_profile_menu_import">Импорт</string>
+<string name="settings_profile_menu_delete">Удалить</string>
+<string name="settings_profile_dialog_profiles_title">Профили</string>
+<string name="settings_profile_dialog_delete_title">Удалить профиль</string>
+<string name="settings_profile_dialog_delete_text">Вы точно хотите удалить профиль <xliff:g id="profile">%s</xliff:g>?</string>
+<string name="settings_profile_export_error">Не могу экспортировать настройки!</string>
+<string name="settings_profile_import_error">Не могу импортировать настройки!</string>
+<string name="settings_profile_delete_error">Не могу удалить профиль!</string>
+<string name="settings_profile_delete_confirmation">Профиль был удалён.tring>
 <string name="settings_callthru">Callthru</string>
 <string name="settings_callthru2">Префикс для Callthru</string>
 
@@ -204,7 +247,7 @@ username1">Имя</string>
 
 <string name="slide_hint_down_to_end_call">Опустите, чтобы закончить вызов.</string>
 <string name="slide_hint_up_to_answer">Поднимите, чтобы ответить.</ststring name="codecs">Аудиокодеки</string>
-<string name="codecs_summary">Выбор аудиокодекос доступных для звонков</string>
+<string name="codecs_summary">Выбор аудиокодеков, доступных для звонков</string>
 <string name="codecs_move">Сдвинуть этот кодек</string>
 <string name="codecs_move_up">Вверх</string>
 <string name="codecs_move_down">Вниз</string>
