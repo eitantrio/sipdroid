@@ -145,16 +145,10 @@ username1">Имя</string>
         <item>PSTNожно</item>
         <ite      <item>PSTN</item>compression">Сжатие</string>
     <string-array name="compression_display_values">
-        <item>Только при EDGE</item>
-        <item>Только при EDGE/3G</item>
+        <item>Только при WLAN</item>
+        <item>Только при WLAN/3G</item>
         <item>Всегда</item>
         <item>Никогда
-        <item>SIP</item>
-      <string-array name="compression_values">
-        <item>edge</item>
-        <item>edgeor3g</item>
-        <item>always</item>
-        <item>never
         <item>SIP</item>
         <item>PSTN</item>
     </string-array>
