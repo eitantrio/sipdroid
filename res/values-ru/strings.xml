@@ -162,7 +162,7 @@ username1">Имя</string>
 <string name="settings_notify2">Мигать синим светодиодом�ска н<string name="settings_nodata">Обрыв данных</string>
 <string name="settings_nodata2">При пропущенных пакетах подавать звуковой сигнал�ска на оставленные сообщения в SIP</string>
 
-<string name="settings_advanced_options�тор сигнала для EDGE-вызовов</string>
+<string name="settings_advanced_optionsaudio_options">Звукg name="settings_advanced_options�тор сигнала для EDGE-вызовов</string>
 <string name="settings_policy_never">Другая политика сна, чтобы держать Wi-Fi включённым.</string>
 <string name="settings_policy_default">� <item>2</item>
         <item>3</item>
@@ -194,7 +194,7 @@ username1">Имя</string>
 <string name="settings_pbxes_options">Возможности PBX</string>
 <string name="settings_par">Одновременный дозвон</string>
 <string name="settings_par2">Параллельный набор всех номеров контакта</string>
-<str�следняя версия программы (PBXesettings_improve2">Требуется платный доступ и последняя версия программы (в личных данных)</string>
+<str�следняя версия программы (PBXesettings_improve2">Требуется платный достhdvoice">PBXes поддерживает HD Voice�ется платный доступ и последняя версия программы (в личных данных)</string>
 <string name="settings_posurl">URL для местоположения/обратного вызова</string>
 <string name="settings_pos">Обновлять местоположение</string>
 <string name="settings_pos2">Можно уведомлять контакты из PBXes (требуется платный доступ)</string>
@@ -232,7 +232,7 @@ username1">Имя</string>
 
 <string name="card_title_dialing">Набор номера</string>
 <string name="card_title_in_progress">Разговор</string>
-<string name="card_title_incoming_call">Входящий вызов</string>
+<string name="card_title_incoming_call">Входящиended_no_codec">Ошибка: несовместимые кодекиtitle_incoming_call">Входящий вызов</string>
 <string name="card_title_call_ended">Вызов закончен</string>
 <string name="card_title_on_hold">Удерживается</string>
 
@@ -244,5 +244,4 @@ username1">Имя</string>
 <string name="codecs_move">Сдвинуть этот кодек</string>
 <string name="codecs_move_up">Вверх</string>
 <string name="codecs_move_down">Вниз</string>
-<string name="cancel">Отмена</string>
 </resources>
