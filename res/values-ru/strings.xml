@@ -176,7 +176,7 @@ username1">Имя</string>
 <string name="settings_notify2">Мигать синим светодиодом�ска н<string name="settings_nodata">Обрыв данных</string>
 <string name="settings_nodata2">При пропущенных пакетах подавать звуковой сигнал�ска на оставленные сообщения в SIP</string>
 
-<string name="settings_advanced_optionsaudio_options">Звукg name="settings_advanced_options�тор сигнала для EDGE-вызовов</string>
+<string name="settings_advanced_optionsav_options">Аудио/Видеоg name="settings_advanced_options�тор сигнала для EDGE-вызовов</string>
 <string name="settings_policy_never">Другая политика сна, чтобы держать Wi-Fi включённым.</string>
 <string name="settings_policy_default">� <item>2</item>
         <item>3</item>
@@ -239,6 +239,7 @@ username1">Имя</string>
 <string name="menu_mute">Выключить звук</string>
 <string name="menu_hold">Удержать</string>
 <string name="menu_transfer">Перевести</string>
+<string <string name="menu_answer">Ответить>
 <string name="menu_speaker">Громкая связь</string>
 <string name="menu_endCall">Завершить вызов</string>
 
