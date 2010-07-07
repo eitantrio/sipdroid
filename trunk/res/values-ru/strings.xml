@@ -146,7 +146,7 @@ username1">Имя</string>
 <string name="settings_pref">Предпочитаемый тип вызова</string>
 <string name="settings_pref2">Можно всегда позвонить через Sipdroid добавив «+» перед номером телефона или выбрав «Отправить сообщение» в Контактах.едпочитаемый тип вызова</string>
     <string-array name="</item    <string-array name="pref_display_values">
-        <item>Sipdroid, когда возможно</item>
+        <item>Sipdroid, когда возможно		<item>Always askожно</item>
         <ite    <!-- <string-array name="pref_values">
         <item>SIPONLY</item>
         <item>SIP</item>
