@@ -51,7 +51,7 @@
 <string name="regok">Зарегистрирован</string>
 <string name="regfailed">Ошибка регистрации</string>
 
-<string name="voicemail">Ожидают сообщения</string>
+<string name="voicemail">Новые сообщения</string>
 
 <string name="auto_enabled">Авто-ответ/Громкая связь</string>
 <string name="auto_disabled">Авто-ответ выключен</string>
@@ -197,8 +197,7 @@ username1">Имя</string>
         <item>Самая сильная�ьное (может приве�!--�сти к эху у собеседника)</item>
         <item>Самое сильное</item>
     </string-array>
-    <string-array name="eargain_values" --"><string name="settings_ownwifi">Питание Wi-Fi</string>
-<string name="settings_ownwifi2">Экономит батарею</string">
+    <string-array name="eargain_values" --">
         <item>0.1</item>
         <item>0.25</item>
         <item>0.5</item>
@@ -227,7 +226,15 @@ username1">Имя</string>
 <string name="settings_profile_import_error">Не могу импортировать настройки!</string>
 <string name="settings_profile_delete_error">Не могу удалить профиль!</string>
 <string name="settings_profile_delete_confirmation">Профиль был удалён.tring>
-<string name="settings_callthru">Callthru</string>
+<string name="settsettings_wireless_options">WiFi/Bluetooth</string>
+<string name="settings_bluetooth">Требуется Android 2.2 или новее</string>
+<string name="settings_keepon">Держать WiFi</string>
+<string name="settings_keepon2">На некоторых устройках исправляет проблемы с WiFi</string>
+<string name="settings_selectwifi">Выбирать точку WiFi</string>
+<string name="settings_selectwifi2">По силе сигнала</string>
+<string name="settings_ownwifi">Управление питанием Wi-Fi</string>
+<string name="settings_ownwifi2">Экономит батарею</string">
+        <item>ings_callthru">Callthru</string>
 <string name="settings_callthru2">Префикс для Callthru</string>
 
 <string name="menu_settings">Настройки</string>
@@ -240,6 +247,7 @@ username1">Имя</string>
 <string name="menu_hold">Удержать</string>
 <string name="menu_transfer">Перевести</string>
 <string <string name="menu_answer">Ответить>
+<string <string name="menu_bluetooth">Bluetooth (экспериментально)>
 <string name="menu_speaker">Громкая связь</string>
 <string name="menu_endCall">Завершить вызов</string>
 
@@ -259,4 +267,7 @@ username1">Имя</string>
 <string name="codecs_move">Сдвинуть этот кодек</string>
 <string name="codecs_move_up">Вверх</string>
 <string name="codecs_move_down">Вниз</string>
+
+<string name="help_speakerphone">Зажмите кнопку громкости для начала разговора</string>
+
 </resources>
