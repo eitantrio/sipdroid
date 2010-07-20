@@ -130,6 +130,10 @@ username1">Имя</string>
 <string name="settings_stun_server_port">Порт STUN-сервера</stringtem>
     </string-array>
 
+mmtel">Использовать MMTel</string>
+<string name="settings_mmtel_qvalue">Q-значение</stringtem>
+    </string-array>
+
 <string name="settings_options">Настройки вызова</string>
 <string name="settings_wlan">Использовать WLAN</string>
 <string na</string>
