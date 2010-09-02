@@ -147,11 +147,11 @@ mmtel">Использовать MMTel</string>
 <string name="no">Нет</string>
 <string name="dontask">Не спрашивать</string>
 
-<string name="settings_pref">Предпочитаемый тип вызова</string>
-<string name="settings_pref2">Можно всегда позвонить через Sipdroid добавив «+» после номера телефона или выбрав «Отправить сообщение» в Контактах.</string>
+<string name="settings_pref">Звонить через</string>
+<string name="settings_pref2">Можно всегда позвонить через Sipdroid поставив «+» после номера или выбрав «Отправить сообщение» в Контактах.</string>
 итаемый тип вызова</string>
     <string-array name="</item    <string-array name="pref_display_values">
-        <item>Sipdroid, когда возможно		<item>Always askожно</item>
+        <item>Sipdroid, когда возможно        <item>Спрашиватьожно</item>
         <ite    <!-- <string-array name="pref_values">
         <item>SIPONLY</item>
         <item>SIP</item>
@@ -234,10 +234,10 @@ mmtel">Использовать MMTel</string>
 <string name="settsettings_wireless_options">WiFi/Bluetooth</string>
 <string name="settings_bluetooth">Требуется Android 2.2 или новее</string>
 <string name="settings_keepon">Держать WiFi</string>
-<string name="settings_keepon2">На некоторых устройках исправляет проблемы с WiFi</string>
+<string name="settings_keepon2">На некоторых устройствах исправляет проблемы с WiFi</string>
 <string name="settings_selectwifi">Выбирать точку WiFi</string>
 <string name="settings_selectwifi2">По силе сигнала</string>
-<string name="settings_ownwifi">Управление питанием Wi-Fi</string>
+<string name="settings_ownwifi">Управлять мощностью Wi-Fi</string>
 <string name="settings_ownwifi2">Экономит батарею</string">
         <item>ings_callthru">Callthru</string>
 <string name="settings_callthru2">Префикс для Callthru</string>
