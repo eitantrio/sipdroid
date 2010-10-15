@@ -56,6 +56,7 @@
 <string name="auto_enabled">Авто-ответ/Громкая связь</string>
 <string name="auto_disabled">Авто-ответ выключен</string>
 <string name="hint">Адреса собеседников</string>
+<string nahint2">Номер телефонков</string>
 <string name="empty">Введите адрес собеседника в виде name@domain.com</string>
 <string name="notfast">Подходящая связь не найдена</string>
 
@@ -177,7 +178,8 @@ mmtel">Использовать MMTel</string>
 <string name="settings_auto_headset2">Когда беспроводная гарнитура подключена�тель 
 <string name="settings_notifications">Уведомле�ючатель в строке состояния</string>
 <string name="settings_MWI">Проверка голосовой почты</string>
-<string name="settings_MWI2">Подписка н<string name="settings_notify">Пропущенный вызов</string>
+<string name="settings_MWI2">Подписка н<string name="settings_reg">Регистрация</string>
+<string name="settings_reg2">Разрешить выбор учётной записи�писка н<string name="settings_notify">Пропущенный вызов</string>
 <string name="settings_notify2">Мигать синим светодиодом�ска н<string name="settings_nodata">Обрыв данных</string>
 <string name="settings_nodata2">При пропущенных пакетах подавать звуковой сигнал�ска на оставленные сообщения в SIP</string>
 
@@ -223,6 +225,7 @@ mmtel">Использовать MMTel</string>
 
 <string name="settings_profile_title">Настройки Sipdroid (<xliff:g id="profile">%s</xliff:g>)</string>
 <string name="settings_profile_menu_import">Импорт</string>
+<string name="settings_profile_menu_export">Экспорт</string>
 <string name="settings_profile_menu_delete">Удалить</string>
 <string name="settings_profile_dialog_profiles_title">Профили</string>
 <string name="settings_profile_dialog_delete_title">Удалить профиль</string>
